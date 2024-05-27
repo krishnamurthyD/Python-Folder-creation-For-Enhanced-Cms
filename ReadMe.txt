@@ -1,0 +1,3 @@
+First, extract all your images and place them in a folder named "source_images". Next, run the provided Python code using your VScode terminal. This will generate a new folder named "json_import_folder", where each image will be organized in the required format.
+
+Once this is done, zip the "json_import_folder" and import the zipped folder into Salesforce B2B Enhanced CMS. This will allow you to successfully bulk import your images.
