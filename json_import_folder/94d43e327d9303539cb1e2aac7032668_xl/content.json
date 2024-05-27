@@ -1,0 +1,13 @@
+{
+  "type": "sfdc_cms__image",
+  "title": "94d43e327d9303539cb1e2aac7032668_xl",
+  "contentBody": {
+    "altText": "94d43e327d9303539cb1e2aac7032668_xl",
+    "sfdc_cms:media": {
+      "source": {
+        "type": "file",
+        "mimeType": "image/jpg"
+      }
+    }
+  }
+}

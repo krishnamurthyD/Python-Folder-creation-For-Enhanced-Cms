@@ -1,0 +1,13 @@
+{
+  "type": "sfdc_cms__image",
+  "title": "bci_da_sopra_piu_vicino",
+  "contentBody": {
+    "altText": "bci_da_sopra_piu_vicino",
+    "sfdc_cms:media": {
+      "source": {
+        "type": "file",
+        "mimeType": "image/jpg"
+      }
+    }
+  }
+}

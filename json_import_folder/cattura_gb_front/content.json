@@ -1,0 +1,13 @@
+{
+  "type": "sfdc_cms__image",
+  "title": "cattura_gb_front",
+  "contentBody": {
+    "altText": "cattura_gb_front",
+    "sfdc_cms:media": {
+      "source": {
+        "type": "file",
+        "mimeType": "image/jpg"
+      }
+    }
+  }
+}

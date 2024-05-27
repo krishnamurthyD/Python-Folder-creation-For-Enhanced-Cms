@@ -1,0 +1,13 @@
+{
+  "type": "sfdc_cms__image",
+  "title": "cattura_f50522a-removebg-preview",
+  "contentBody": {
+    "altText": "cattura_f50522a-removebg-preview",
+    "sfdc_cms:media": {
+      "source": {
+        "type": "file",
+        "mimeType": "image/jpg"
+      }
+    }
+  }
+}

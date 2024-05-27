@@ -1,0 +1,13 @@
+{
+  "type": "sfdc_cms__image",
+  "title": "20220428_142215-removebg-preview",
+  "contentBody": {
+    "altText": "20220428_142215-removebg-preview",
+    "sfdc_cms:media": {
+      "source": {
+        "type": "file",
+        "mimeType": "image/jpg"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "sfdc_cms__image",
+  "title": "04-johnson-fluiten_2011_01-024_1",
+  "contentBody": {
+    "altText": "04-johnson-fluiten_2011_01-024_1",
+    "sfdc_cms:media": {
+      "source": {
+        "type": "file",
+        "mimeType": "image/jpg"
+      }
+    }
+  }
+}
